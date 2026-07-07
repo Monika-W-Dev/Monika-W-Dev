@@ -1,9 +1,9 @@
 # Hello ☺️
 ## I'm Monika
-
-📍 located in Germany - Northern Black Forest
-⌨️ Aspiring Frontend Developer 
-🎓 Certified Industrial Clerk | 10+ Years in Inside Sales | Currently in Purchasing & Data Management
+<br>
+📍 located in Germany - Northern Black Forest <br>
+⌨️ Aspiring Frontend Developer <br>
+🎓 Certified Industrial Clerk | 10+ Years in Inside Sales | Currently in Purchasing & Data Management <br>
 
 
 ### 🛠️ Tech & Tools
